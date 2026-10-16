@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: >-
-  Analyzing neural patterns with Multivariate Pattern Analysis — EEG microstates
+  Analyzing EEG topography with microstates and multivariate pattern analysis
 message: >-
   If you use this software or tutorial, please cite it using the
   metadata from this file.
