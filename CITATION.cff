@@ -19,5 +19,5 @@ identifiers:
     value: 10.5281/zenodo.23425754
     description: Concept DOI for the repository
 url: 'https://rtivadar.github.io/jmicros_ex/exercises/intro.html'
-repository-code: 'https://github.com/rtivadar/jmicros_ex/'
+repository-code: 'https://github.com/rtivadar/EEG-topography-analysis-microstates-MVPA-'
 license: BSD-3-Clause
