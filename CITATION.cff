@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Analyzing neural patterns with Multivariate Pattern Analysis — EEG microstates
+message: >-
+  If you use this software or tutorial, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ruxandra Iolanda
+    family-names: Tivadar
+    affiliation: Crossmodal Perception and Plasticity Lab, Institutes for Research in Psychology (IPSY) and Neuroscience (IoNS), UC Louvain, Louvain-la-Neuve and Brussels, B-1200, Belgium
+    orcid: 'https://orcid.org/0000-0002-6680-2917'
+  - given-names: Pınar
+    family-names: Göktepe-Kavis
+    affiliation: Computational Neuroscience Laboratories, ATR Institute International, Kyoto, 619-0288, Japan
+date-released: '2026-10-16'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23425754
+    description: Concept DOI for the repository
+url: 'https://rtivadar.github.io/jmicros_ex/exercises/intro.html'
+repository-code: 'https://github.com/rtivadar/jmicros_ex/'
+license: BSD-3-Clause
