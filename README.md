@@ -19,8 +19,8 @@ Interactive Python tutorials for EEG topographical analyses (microstate analysis
 
 ## Citation
 If you use these tutorials in your research, please cite the Zenodo record:
-> Tivadar, R. I & Göktepe-Kavis, P. (2026). *Analyzing EEG topography with microstates and multivariate pattern analysis* (Version V1.0.1) [Software]. Zenodo: 10.5281/zenodo.23426077
-
+> Tivadar, R. I., & Göktepe-Kavis, P. (2026). Analyzing neural patterns with Multivariate Pattern Analysis — EEG microstates (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23426077
+> 
 ## License
 Licensed under the [BSD-3-Clause License](LICENSE).
 
